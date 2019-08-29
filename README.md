@@ -9,7 +9,7 @@
 
 ### To set up and compile project
 
-1. Downlaod this OpenFrameworks Fork: https://github.com/liquidzym/openFrameworks/tree/VS2013
+1. Download this OpenFrameworks Fork: https://github.com/liquidzym/openFrameworks/tree/VS2013
 2. Download this Kinect V2 addon: https://github.com/elliotwoods/ofxKinectForWindows2
 3. Extract OpenFrameworks to a known place.
 4. Extract ofxKinectForWindows2 to **(OpenFrameworks root)/addons** & rename to just "ofxKinectForWindows2"
